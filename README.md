@@ -23,10 +23,11 @@ c) Criatividade e originalidade: solução diferenciada, agregando algo de novo 
 d) Qualidade técnica: a análise fez uso de técnicas avançadas ou incomuns. Além do uso das funcionalidades prontas, a análise foi sofisticada com o uso de codificação, modelagem matemática, machine learning ou mineração de dados.
 
 # Tema escolhido
+
 Operações contratadas na forma indireta automática
 Operações de financiamento contratadas e que foram analisadas pelas instituições financeiras credenciadas, no âmbito dosprodutos: BNDES FINAME e BNDES Automático.
 
-#### -- Status do Projeto: [Finalizado - Entregue]
+## -- Status do Projeto: [Finalizado - Entregue]
 
 ## Descrição do projeto
 
@@ -44,10 +45,12 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 4- Predição de liquidez no prazo definido.
 
 ### Parceiro
+
 * [BNDES]
 * [Website](https://www.bndes.gov.br/wps/portal/site/home/transparencia/iniciativas/!ut/p/z1/fY5NC4JAEIbv_govHmVWiOxqFn4QgeRB9yKTLjGVu-pu0s_PxOrWZZ53YJ6XAW7ZtmVBMWEKy_gQuMSRLmhISbxDASVfV34WhXGw8g6bPA5ZFqbT4kdelHiQzuLPfzf8N4rFWM6_gJKufc8D4LWSRjwNFNvjbn-qEqkNmUc9f-SwWLXCYfmAUnc4CFkTOowkTTQ0onZYN4iWlNtgo7SLZzEYpaG78fIFRBWnjA!!/)
 
 ### Métodos Usados
+
 * Estatística Inferencial;
 * Visualização de dados;
 * Machine Learning;
@@ -99,19 +102,18 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 
 #### Membros :
 
-|Name     |  Github  | 
+|Nome     |  Github  | 
 |---------|-----------------|
 |[Pedro Forastieri de Almeida Prado](https://github.com/Forastierii)|     @Forastierii    |
 |[Pedro Paulo de Oliveira Felix](https://github.com/PedrooFelix)    |     @PedrooFelix    |
 
 ## Contact
-https://www.linkedin.com/in/pedroforastieri/
-https://www.linkedin.com/in/pedro-paulo-felix/
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+* Se você se interessou ou gostaria de saber mais sobre o projeto, não hesite e entre em contato conosco pelo Linkedin.
+* [Pedro Forastieri](https://www.linkedin.com/in/pedroforastieri/).  
+* [Pedro Felix](https://www.linkedin.com/in/pedro-paulo-felix/).  
 
+
+## Documentação e pastas
 
 ```
 ├── .gitignore               <- Arquivos que devem ser ignorados pelo git. Adcione separadamente .gitignore na pasta se necessário.
