@@ -39,8 +39,11 @@ E se pudéssemos saber antecipadamente se um empréstimo será pago ? Quais seri
 A proposta do projeto envolve 4 pontos, com o objetivo de predição de investimentos inadimplentes.
 
 1- Análise descritiva dos dados;
+
 2- Identificação de padrão de inadimplência nos financiamentos;
+
 3- Características mais relevantes;
+
 4- Predição de liquidez no prazo definido.
 
 ### Parceiro
