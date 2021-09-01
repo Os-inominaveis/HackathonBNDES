@@ -28,7 +28,7 @@ Operações contratadas na forma indireta automática
 
 Operações de financiamento contratadas e que foram analisadas pelas instituições financeiras credenciadas, no âmbito dos produtos: BNDES FINAME e BNDES Automático.
 
-## - Status do Projeto: [Finalizado - Entregue] [Vídeo Apresentação](https://www.youtube.com/watch?v=NDl55c7uLgI) [Apresentação](https://docs.google.com/presentation/d/1LYLQ2HI25dm3PNOHNtHi8YEAfUpZkaHiOylAjb6PzUU/edit?usp=sharing) 
+## - Status do Projeto: [Finalizado - Entregue] [Vídeo Apresentação/](https://www.youtube.com/watch?v=NDl55c7uLgI) [Apresentação](https://docs.google.com/presentation/d/1LYLQ2HI25dm3PNOHNtHi8YEAfUpZkaHiOylAjb6PzUU/edit?usp=sharing) 
 
 ## Descrição do projeto
 
