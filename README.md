@@ -56,7 +56,7 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 * Machine Learning;
 * Modelo de Predição.
 
-### Technologies
+### Tecnologias
 
 * Python;
 * Pandas, Jupyter;
