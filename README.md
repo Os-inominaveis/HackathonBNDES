@@ -1,4 +1,4 @@
-*Instruções: Siga o passo a passo abaixo para compreender e conseguir executar o código em sua máquina, Obrigado.*
+*Instruções: Siga o passo a passo abaixo para compreender e conseguir executar o código em sua máquina*
 
 Repositório da equipe *Os Inomináveis* para o Prêmio Dados Abertos para o Desenvolvimento do BNDES
 
@@ -27,7 +27,7 @@ d) Qualidade técnica: a análise fez uso de técnicas avançadas ou incomuns. A
 Operações contratadas na forma indireta automática
 Operações de financiamento contratadas e que foram analisadas pelas instituições financeiras credenciadas, no âmbito dos produtos: BNDES FINAME e BNDES Automático.
 
-## -- Status do Projeto: [Finalizado - Entregue]
+## - Status do Projeto: [Finalizado - Entregue]
 
 ## Descrição do projeto
 
