@@ -92,7 +92,7 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de investim
 |[Pedro Forastieri de Almeida Prado](https://github.com/Forastierii)|     @Forastierii    |
 |[Pedro Paulo de Oliveira Felix](https://github.com/PedrooFelix)    |     @PedrooFelix    |
 
-## Contact
+## Contato
 
 * Se você se interessou entre em contato conosco pelo Linkedin.
 * [Pedro Forastieri](https://www.linkedin.com/in/pedroforastieri/)
