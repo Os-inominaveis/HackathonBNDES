@@ -81,7 +81,7 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 1. Clone este projeto.
 2. Siga as pastas em ordem [aqui](https://github.com/Os-inominaveis/HackathonBNDES/tree/main/jupyter_notebooks) neste repositório.
 
-    *Esteja online durante a execuçao*
+    *Esteja online durante a execução*
     
 3. Exploração dos dados [aqui](https://github.com/Os-inominaveis/HackathonBNDES/tree/main/jupyter_notebooks/explora%C3%A7%C3%A3o_de_dados)
 4. Machine Learning [aqui](https://github.com/Os-inominaveis/HackathonBNDES/tree/main/jupyter_notebooks/machine_learning)
