@@ -2,7 +2,7 @@
 
 Repositório da equipe *Os Inomináveis* para o Prêmio Dados Abertos para o Desenvolvimento do BNDES
 
-# HackathonBNDES
+# Hackathon BNDES
 
 O Prêmio Dados Abertos para o Desenvolvimento é uma iniciativa do BNDES para incentivar a colaboração entre governo e sociedade e para estimular o desenvolvimento de estudos, análises e soluções de empreendedorismo tecnológico que contribuam para aprimorar e modernizar a gestão pública.
 
