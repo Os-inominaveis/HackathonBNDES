@@ -27,7 +27,7 @@ d) Qualidade técnica: a análise fez uso de técnicas avançadas ou incomuns. A
 Operações contratadas na forma indireta automática
 Operações de financiamento contratadas e que foram analisadas pelas instituições financeiras credenciadas, no âmbito dos produtos: BNDES FINAME e BNDES Automático.
 
-## - Status do Projeto: [Finalizado - Entregue]
+## - Status do Projeto: [Finalizado - Entregue] Link de apresentação [Apresentação](https://www.youtube.com/watch?v=NDl55c7uLgI)
 
 ## Descrição do projeto
 
