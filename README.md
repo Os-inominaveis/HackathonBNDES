@@ -10,7 +10,7 @@ Com essa iniciativa, pretende-se trazer ganhos à administração pública, com 
 
 O Plano de Dados Abertos do BNDES estabelece a governança e a sistemática de publicação e atualização dos dados, além de um cronograma para a abertura das bases do Banco.
 
-# Este projeto é uma solução desenvolvida específicamente para o BNDES como proposta para o desafio. Todos os dados utilizados estão disponíveis em bases abertas e seguem o protocolo de segurança de não identificação de usuários. [Fonte](https://dadosabertos.bndes.gov.br/dataset/operacoes-financiamento)
+*Este projeto é uma solução desenvolvida específicamente para o BNDES como proposta para o desafio. Todos os dados utilizados estão disponíveis em bases abertas e seguem o protocolo de segurança de não identificação de usuários. [Fonte](https://dadosabertos.bndes.gov.br/dataset/operacoes-financiamento)*
 
 # Critérios:
 
