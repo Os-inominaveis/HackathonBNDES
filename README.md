@@ -25,19 +25,18 @@ d) Qualidade técnica: a análise fez uso de técnicas avançadas ou incomuns. A
 # Tema escolhido
 
 Operações contratadas na forma indireta automática
-Operações de financiamento contratadas e que foram analisadas pelas instituições financeiras credenciadas, no âmbito dosprodutos: BNDES FINAME e BNDES Automático.
+Operações de financiamento contratadas e que foram analisadas pelas instituições financeiras credenciadas, no âmbito dos produtos: BNDES FINAME e BNDES Automático.
 
 ## -- Status do Projeto: [Finalizado - Entregue]
 
 ## Descrição do projeto
 
 *Com base no problema observado, é de suma importância trazer mais segurança ao agente financeiro de que o risco de crédito da linha de financiamento seja mínimo.
-E se pudéssemos saber antecipadamente se um empréstimo será pago?Quais seriam os impactos em ganhos?
-Quais seriam os impactos em ganhos?*
+E se pudéssemos saber antecipadamente se um empréstimo será pago ? Quais seriam os impactos em ganhos?*
 
-## Introduçã/Objetivo
+## Introdução/Objetivo
 
-A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes inadimplentes.
+A proposta do projeto envolve 4 pontos, com o objetivo de predição de investimentos inadimplentes.
 
 1- Análise descritiva dos dados;
 2- Identificação de padrão de inadimplência nos financiamentos;
@@ -53,8 +52,7 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 
 * Estatística Inferencial;
 * Visualização de dados;
-* Machine Learning;
-* Modelo de Predição.
+* Machine Learning, Modelo de predição;
 
 ### Tecnologias
 
@@ -73,7 +71,7 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 - Exploração de dados / Estatística Descritiva;
 - Processamento de dados / Limpeza;
 - Modelagem Estatística;
-- Storytelling/Relatórios.
+- Storytelling / Relatórios.
 
 
 ## Iniciando
