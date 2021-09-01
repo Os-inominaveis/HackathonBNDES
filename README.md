@@ -95,11 +95,6 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link)
 
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
 #### Membros :
 
 |Nome     |  Github  | 
@@ -116,7 +111,7 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 ## Documentação e pastas
 
 ```
-├── .gitignore               <- Arquivos que devem ser ignorados pelo git. Adcione separadamente .gitignore na pasta se necessário.
+├── .gitignore               <- Adicione separadamente .gitignore na pasta se necessário.
 │                              
 ├── LICENSE                  <- As permissões desta licença estão condicionadas à disponibilização do código fonte completo.
 ├── README.md                <- Descrição para os avaliadores do projeto.
