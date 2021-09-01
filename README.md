@@ -78,22 +78,14 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 
 ## Iniciando
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+1. Clone este projeto.
+2. Siga as pastas em ordem [aqui](https://github.com/Os-inominaveis/HackathonBNDES/tree/main/jupyter_notebooks) neste repositório.
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
+    *Esteja online durante a execuçao*
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+3. Exploração dos dados [aqui](https://github.com/Os-inominaveis/HackathonBNDES/tree/main/jupyter_notebooks/explora%C3%A7%C3%A3o_de_dados)
+4. Machine Learning [aqui](https://github.com/Os-inominaveis/HackathonBNDES/tree/main/jupyter_notebooks/machine_learning)
+5. Profilling dos dados [aqui](https://github.com/Os-inominaveis/HackathonBNDES/tree/main/jupyter_notebooks/profiling)
 
 #### Membros :
 
@@ -103,12 +95,13 @@ A proposta do projeto envolve 4 pontos, com o objetivo de predição de clientes
 |[Pedro Paulo de Oliveira Felix](https://github.com/PedrooFelix)    |     @PedrooFelix    |
 
 ## Contact
-* Se você se interessou ou gostaria de saber mais sobre o projeto, não hesite e entre em contato conosco pelo Linkedin.
-* [Pedro Forastieri](https://www.linkedin.com/in/pedroforastieri/).  
-* [Pedro Felix](https://www.linkedin.com/in/pedro-paulo-felix/).  
+
+* Se você se interessou entre em contato conosco pelo Linkedin.
+* [Pedro Forastieri](https://www.linkedin.com/in/pedroforastieri/)
+* [Pedro Felix](https://www.linkedin.com/in/pedro-paulo-felix/)
 
 
-## Documentação e pastas
+## Documentação
 
 ```
 ├── .gitignore               <- Adicione separadamente .gitignore na pasta se necessário.
